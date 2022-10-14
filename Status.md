@@ -1,0 +1,1 @@
+We attempted requirements 1, 3, 4 and 5. They all work but the outputs are sometimes in a different order than the outputs in the t0x.out files you gave us to test. We used the make file to compile and send the output from the program to the corresponding t0x.out file and compared to the ones given.
